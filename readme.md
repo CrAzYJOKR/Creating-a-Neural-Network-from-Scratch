@@ -12,11 +12,6 @@ In the related notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we will
 - Plot the train and validation metrics such as the loss and the accuracies
 
 
-## Example: Noisy Moons (Check the notebook for other kinds of problems)
-
-### Decision boundary (you'll get to this graph animated during training)
-![Decision boundary](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/decision_boundary.png)
-
 ### Loss and accuracy monitoring on train and validation sets 
 ![Loss/Accuracy monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/loss_acc.png)
 
